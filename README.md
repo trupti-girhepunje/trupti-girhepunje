@@ -28,11 +28,11 @@ Hi 👋, I am Trupti Girhepunje Analytical and detail-oriented Full Stack develo
 
 - 💬 Ask me about `MERN and Data Structure Algorithms.`
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1kA1oY4bEvoqC4nOutLiu8ccdY1avCsxj/view?usp=sharing">Resume.</a>
+- 📄 Know about my experiences <a href="[https://drive.google.com/file/d/1kA1oY4bEvoqC4nOutLiu8ccdY1avCsxj/view?usp=sharing](https://drive.google.com/drive/folders/1hOMUG4fcRPXr7jaGgOI3hJSusHudoJGa)">Resume.</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://anmoljagota.github.io/">Trupti's Portfolio.</a>
+- 👨‍💻 All of my projects are available at <a href="https://truptigirhepunje.github.io/">Trupti's Portfolio.</a>
 
-- 📮 Connect With Me On <a href="https://www.linkedin.com/in/anmol-75084-jagota/">LinkedIn</a>
+- 📮 Connect With Me On <a href="https://www.linkedin.com/in/trupti-girhepunje/">LinkedIn</a>
 
 
 </div>
